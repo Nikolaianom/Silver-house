@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header{
+    
+}
+.logo-main{
+    display: block;
+    margin: 50px auto 79px auto;
+}
+.nav{
+margin:  
+padding : 2px 0px;
+
+}
+.nav-content{
+width: 811px  ;
+height: 29px;
+margin: 0 auto;
+display: flex;
+justify-content: space-around;
+}
+.nav-list{
+list-style: none;
+display: flex;
+}
+.nav-link{
+margin: 15px;
+color: #8C8A8A;
+height: 29px;
+font-size:  18px;
+
+}
+.image{
+    display: block;
+    margin: 30px auto;
+}
+.main{
+    display: flex;
+    width: 1110px;
+    height: 500px;
+    margin: 30px auto;
+    justify-content: space-between;
+}
+.text-a{
+    height: 500px;
+    width: 730px;
+    background: #F0F0F0;
+    
+}
+.text-b{
+    height: 500px;
+    width: 350px;
+    background: #F0F0F0;
+    
+}
+.title-a{
+    margin: 50px 297px 25px 40px;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+    color: #4581B7;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.paragraph-a{
+    margin: 0 95px 51px 40px;
+    font-size: 16px;
+    color: #808080;
+
+    margin-top: 30px;
+    line-height: 27px;
+    font-family: arial;
+    font-weight: 400;
+}
+.title-b{
+    margin: 57px 160px 25px 40px;
+    text-align: center;
+    line-height: 23px;
+    width: 150px;
+height: 23px;
+color: #4581B7;
+font-family: arial;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+}
+.paragraph-b{
+   margin: 0 24px 0px 40px;
+   color: #808080;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 27px;
+}
+.text-b-link{
+    color: #808080;
+    margin-top: 30px;
+    display: block;
+    margin: 39px 24px 0 40px;
+}
+.text-b-link2{
+    color: #808080;
+    margin: 67px 24px 0 40px;
+    display: block;
+}
+.footer{
+    height: 150px;
+    width: 1110px;
+    background: #F0F0F0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-link{
+    display: block;
+    margin: 0 0 0 40px;
+    
+}
+.footer-div{
+margin: 0 40px 0 0 ;
+}
+.footer-text{
+    font-family: Arial;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #808080;
+}
+.footer-link-b{
+    color: #808080;
+    display: block;
+    margin: 15px 0 0 0 ;
+}
