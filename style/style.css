@@ -39,8 +39,8 @@ font-size:  18px;
 }
 .main{
     display: flex;
-    /* width: 1110px; */
-    /* height: 500px; */
+     max-width: 1110px; 
+     height: 500px;
     margin: 30px auto;
     justify-content: space-between;
     column-gap: 25px;
@@ -140,6 +140,4 @@ color: #808080;
     display: block;
     margin: 15px 0 0 0 ;
 }
-.image {
-    width: 100%;
-}
+
