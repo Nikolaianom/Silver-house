@@ -40,7 +40,6 @@ font-size:  18px;
 .main{
     display: flex;
      max-width: 1110px; 
-     height: 500px;
     margin: 30px auto;
     justify-content: space-between;
     column-gap: 25px;
